@@ -1,0 +1,22 @@
+{
+  "name": "eslint",
+  "version": "1.0.0",
+  "description": "",
+  "main": ".eslintrc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoakimS/eslint-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoakimS/eslint-project/issues"
+  },
+  "homepage": "https://github.com/JoakimS/eslint-project#readme",
+  "devDependencies": {
+    "eslint": "^8.54.0"
+  }
+}
